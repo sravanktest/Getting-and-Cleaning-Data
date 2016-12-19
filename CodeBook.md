@@ -9,7 +9,7 @@ This code book describes the variables, the data, and transformations performed 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 * Data was extracted and transformed to create tidy dataset. 
 * The data was aggregated to get the average of each variable for each activity and each subject.
-* The tidy data set is located in this repo with name "tidydata_uci.txt"
+* The final tidy data set is located in this repo with name "tidydata_uci.txt"
 
 # Variables
 The dataset has two identifiers "subject" and "activity".
